@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: langchain-cohere
+Version: 0.1.0rc0
+Summary: An integration package connecting Cohere and LangChain
+Home-page: https://github.com/langchain-ai/langchain
+License: MIT
+Requires-Python: >=3.8.1,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: cohere (>=5.1.1,<6.0.0)
+Requires-Dist: langchain-core (>=0.1.32,<0.2.0)
+Project-URL: Repository, https://github.com/langchain-ai/langchain
+Project-URL: Source Code, https://github.com/langchain-ai/langchain/tree/master/libs/partners/cohere
+Description-Content-Type: text/markdown
+
+# langchain-cohere
+
